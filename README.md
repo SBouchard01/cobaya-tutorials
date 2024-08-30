@@ -53,4 +53,4 @@ If you would like to contribute, follow the steps below:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
-(Dr. Guadalupe Cañas-Herrera)[https://github.com/gcanasherrera].
+Dr. [Guadalupe Cañas-Herrera](https://github.com/gcanasherrera).
