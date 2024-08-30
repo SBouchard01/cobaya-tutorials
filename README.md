@@ -23,8 +23,8 @@ Welcome to the **Cobaya Tutorials** repository! This repository contains a serie
 
 - **Requirements**:
   
-`python`, latest `Cobaya` version and its cosmology dependencies.
-We recommend running the notebooks in [Google Colab](http://colab.research.google.com), and get `Cobaya` and dependencies installed in the cloud by adding in the first cells:
+  `python`, latest `Cobaya` version and its cosmology dependencies.
+  We recommend running the notebooks in [Google Colab](http://colab.research.google.com), and get `Cobaya` and dependencies installed in the cloud by adding in the first cells:
    ```bash
    !pip install cobaya
    !cobaya-install cosmo -p .
