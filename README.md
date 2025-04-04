@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13614370.svg)](https://doi.org/10.5281/zenodo.13614370)
+
 # Cobaya Tutorials
 
 Welcome to the **Cobaya Tutorials** repository! This repository contains a series of tutorials in the form of `jupyter notebooks` designed to help users understand how cosmological inference works and effectively learn and use [Cobaya](https://pypi.org/project/cobaya/) (Cosmological Bayesian Analysis), a powerful tool for cosmological parameter estimation and model testing.
