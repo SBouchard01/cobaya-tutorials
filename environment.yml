@@ -7,6 +7,6 @@ dependencies:
   - matplotlib
   - pandas
   - scipy
-pip:
-  - cobaya
-  - getdist
+  - pip:
+    - cobaya
+    - getdist
