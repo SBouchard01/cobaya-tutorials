@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - python=3.11
+  - setuptools >= 80.0.0
   - numpy
   - matplotlib
   - pandas
