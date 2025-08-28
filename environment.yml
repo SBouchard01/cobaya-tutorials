@@ -1,0 +1,12 @@
+name: cobaya-tutorials
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - matplotlib
+  - pandas
+  - scipy
+pip:
+  - cobaya
+  - getdist
